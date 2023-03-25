@@ -1,0 +1,4 @@
+import NumPy 
+
+def calculate()
+
